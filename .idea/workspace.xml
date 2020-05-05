@@ -4,7 +4,65 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed3f177-2b00-4cd4-a89a-4631b572d221" name="Default Changelist" comment="" />
+    <list default="true" id="0ed3f177-2b00-4cd4-a89a-4631b572d221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/endpoints/admin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/endpoints/authentication.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/endpoints/image.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/endpoints/signup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/generated-sources/.swagger-codegen-ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/generated-sources/.swagger-codegen/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/generated-sources/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/generated-sources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/generated-sources/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/classes/technical-api-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/TechnicalApiApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/config/SwaggerConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/controller/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/controller/AuthenticationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/controller/ImageUploadController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/controller/SignupController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/exception/RestExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/model/AuthorizedUserResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/model/ErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/model/ImageDetailsResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/model/ImageUploadRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/model/ImageUploadResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/model/SignupUserRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/model/SignupUserResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/model/UpdateImageRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/com/upgrad/technical/api/model/UpdateImageResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/generated-sources/.swagger-codegen-ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/generated-sources/.swagger-codegen/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/generated-sources/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/generated-sources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/generated-sources/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/io/swagger/RFC3339DateFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/io/swagger/Swagger2SpringBoot$ExitException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/io/swagger/Swagger2SpringBoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/io/swagger/api/ApiException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/io/swagger/api/ApiOriginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/io/swagger/api/ApiResponseMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/io/swagger/api/NotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/io/swagger/configuration/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/io/swagger/configuration/SwaggerDocumentationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/classes/technical-api-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-db/src/main/resources/config/localhost.properties" beforeDir="false" afterPath="$PROJECT_DIR$/technical-db/src/main/resources/config/localhost.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +96,16 @@
       <find>roleen</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\DELL\IdeaProjects\imagehoster-Api\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -57,6 +125,7 @@
     <option name="height" value="728" />
   </component>
   <component name="ProjectId" id="1af8TBIvgDw1zXaZhrJbI4tw6Ju" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,6 +137,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value=".yaml&#9;FILE&#9;file://E:/Trello_imagehoster/solutions/solution9/technical-api/src/main/resources/application.yaml&#10;imageentity&#9;FILE&#9;file://E:/Trello_imagehoster/solutions/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/ImageEntity.java&#10;.sql&#9;FILE&#9;file://E:/Trello_imagehoster/solutions/technical/technical-db/src/main/resources/sql/db-imageupload.sql&#10;signupc&#9;FILE&#9;file://C:/Users/Abhi.Mahajan/Desktop/Trello/9/M9/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/SignupController.java&#10;admincontroll&#9;FILE&#9;file://D:/M11/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/AdminController.java&#10;admincontroller&#9;FILE&#9;file://D:/M11/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/AdminController.java&#10;Imageco&#9;FILE&#9;file://D:/M11/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/ImageUploadController.java&#10;Imageen&#9;FILE&#9;file://D:/M11/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/ImageEntity.java&#10;.json&#9;FILE&#9;file://D:/M11/technical/technical-api/src/main/resources/endpoints/admin.json&#10;admin&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/AdminService.java&#10;admin.json&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/resources/endpoints/admin.json&#10;adminco&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/AdminController.java&#10;adminc&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/AdminController.java&#10;imagec&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/ImageUploadController.java&#10;authent&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/AuthenticationService.java&#10;userdao&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/dao/UserDao.java&#10;authe&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/AuthenticationService.java&#10;authentication&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/AuthenticationController.java&#10;cont&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/SignupController.java&#10;userco&#9;PSI&#9;JAVA://org.hibernate.usertype.UserCollectionType&#10;imagee&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/ImageEntity.java&#10;signup&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/SignupBusinessService.java&#10;userda&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/dao/UserDao.java&#10;AdminC&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/AdminController.java&#10;userentity&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/UserEntity.java&#10;uploadservice&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/ImageUploadService.java&#10;userEntity&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/UserEntity.java&#10;admin s&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/AdminService.java&#10;authenticationc&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/AuthenticationController.java&#10;image&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/ImageEntity.java&#10;userauth&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/UserAuthTokenEntity.java&#10;ImageEntity&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/ImageEntity.java&#10;imageuplo&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/ImageUploadController.java&#10;imageser&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/ImageUploadService.java&#10;imageup&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/ImageUploadController.java&#10;authen&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/AuthenticationService.java&#10;Image&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/ImageUploadController.java&#10;fileuploadException.java&#9;FILE&#9;jar://C:/Users/Abhi.Mahajan/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.29/tomcat-embed-core-8.5.29-sources.jar!/org/apache/tomcat/util/http/fileupload/FileUploadException.java&#10;UploadExcep&#9;FILE&#9;jar://C:/Users/Abhi.Mahajan/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.29/tomcat-embed-core-8.5.29.jar!/org/apache/tomcat/util/http/fileupload/FileUploadException.class&#10;image.jso&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/resources/endpoints/image.json&#10;authenti.js&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/resources/endpoints/authentication.json&#10;usera&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/UserAuthTokenEntity.java&#10;im&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/entity/ImageEntity.java&#10;image.json&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/resources/endpoints/image.json&#10;user&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/dao/UserDao.java&#10;signupse&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/SignupBusinessService.java&#10;App&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/resources/application.yaml&#10;signupb&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-service/src/main/java/com/upgrad/technical/service/business/SignupBusinessService.java&#10;signupcontroller&#9;FILE&#9;file://D:/technical_milestone1(complete)_after_18videos/technical/technical-api/src/main/java/com/upgrad/technical/api/controller/SignupController.java&#10;swagger&#9;FILE&#9;file://D:/technical1/technical/technical-api/src/main/java/com/upgrad/technical/api/config/SwaggerConfiguration.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -80,7 +150,20 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.6643678" />
   </component>
-  <component name="RunManager" selected="Maven.Unnamed">
+  <component name="RunManager" selected="Application.TechnicalApiApplication">
+    <configuration name="TechnicalApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.technical.api.TechnicalApiApplication" />
+      <module name="technical-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrad.technical.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -119,7 +202,13 @@
     </configuration>
     <list>
       <item itemvalue="Maven.Unnamed" />
+      <item itemvalue="Application.TechnicalApiApplication" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TechnicalApiApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -176,9 +265,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587115321903">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="515" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588694747635">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="515" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1588694747635" />
     <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1587115321903" />
     <state x="551" y="292" width="435" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587115584957">
       <screen x="0" y="0" width="1536" height="864" />
@@ -188,6 +278,17 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587115310044" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/TechnicalApiApplication.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>
