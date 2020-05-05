@@ -14,37 +14,37 @@ public class RestExceptionHandler {
 
     @ExceptionHandler(AuthenticationFailedException.class)
     public ResponseEntity<ErrorResponse> authenticationFailedException(AuthenticationFailedException exc, WebRequest request) {
-//        return new ResponseEntity<ErrorResponse>(
-//                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.UNAUTHORIZED
-//        );
+        return new ResponseEntity<ErrorResponse>(
+                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.UNAUTHORIZED
+        );
     }
 
     @ExceptionHandler(UploadFailedException.class)
     public ResponseEntity<ErrorResponse> uploadFailedException(UploadFailedException exc, WebRequest request) {
-//        return new ResponseEntity<ErrorResponse>(
-//                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.UNAUTHORIZED
-//        );
+        return new ResponseEntity<ErrorResponse>(
+                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.UNAUTHORIZED
+        );
     }
 
     @ExceptionHandler(ImageNotFoundException.class)
     public ResponseEntity<ErrorResponse> imagenotfoundException(ImageNotFoundException exc, WebRequest request) {
-//        return new ResponseEntity<ErrorResponse>(
-//                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.NOT_FOUND
-//        );
+        return new ResponseEntity<ErrorResponse>(
+                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.NOT_FOUND
+        );
     }
 
     @ExceptionHandler(UserNotSignedInException.class)
     public ResponseEntity<ErrorResponse> usernotsignedinException(UserNotSignedInException exc, WebRequest request) {
-//        return new ResponseEntity<ErrorResponse>(
-//                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.UNAUTHORIZED
-//        );
+        return new ResponseEntity<ErrorResponse>(
+                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.UNAUTHORIZED
+        );
     }
 
     @ExceptionHandler(UnauthorizedException.class)
     public ResponseEntity<ErrorResponse> unauthorizedException(UnauthorizedException exc, WebRequest request) {
-//        return new ResponseEntity<ErrorResponse>(
-//                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.FORBIDDEN
-//        );
+        return new ResponseEntity<ErrorResponse>(
+                new ErrorResponse().code(exc.getCode()).message(exc.getErrorMessage()), HttpStatus.FORBIDDEN
+        );
     }
 
 }
