@@ -6,7 +6,38 @@
   <component name="ChangeListManager">
     <list default="true" id="0ed3f177-2b00-4cd4-a89a-4631b572d221" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/ImageUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/ImageUploadController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/SignupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/controller/SignupController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/AuthorizedUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/AuthorizedUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/ErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/ImageDetailsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/ImageDetailsResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/ImageUploadRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/ImageUploadRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/ImageUploadResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/ImageUploadResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/SignupUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/SignupUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/SignupUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/SignupUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/UpdateImageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/UpdateImageRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/UpdateImageResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/com/upgrad/technical/api/model/UpdateImageResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/api/ApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/api/ApiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/api/ApiOriginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/api/ApiOriginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/api/ApiResponseMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/api/ApiResponseMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/api/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/api/NotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/configuration/SwaggerDocumentationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/generated-sources/io/swagger/configuration/SwaggerDocumentationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-api/target/technical-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/technical-api/target/technical-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-db/target/classes/config/localhost.properties" beforeDir="false" afterPath="$PROJECT_DIR$/technical-db/target/classes/config/localhost.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-db/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/technical-db/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-db/target/technical-db.jar" beforeDir="false" afterPath="$PROJECT_DIR$/technical-db/target/technical-db.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/business/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/business/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/business/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/business/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/business/ImageUploadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/business/ImageUploadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/business/SignupBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/business/SignupBusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/dao/ImageDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/dao/ImageDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/entity/ImageEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/technical-service/src/main/java/com/upgrad/technical/service/entity/ImageEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +101,9 @@
     <option name="height" value="728" />
   </component>
   <component name="ProjectId" id="1af8TBIvgDw1zXaZhrJbI4tw6Ju" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -219,21 +252,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="551" y="292" width="435" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1587115584957" />
+    <state width="1237" height="46" key="GridCell.Tab.0.bottom" timestamp="1588698420520">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="46" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588698420520" />
+    <state width="1237" height="46" key="GridCell.Tab.0.center" timestamp="1588698420520">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="46" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1588698420520" />
+    <state width="1237" height="46" key="GridCell.Tab.0.left" timestamp="1588698420520">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="46" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1588698420520" />
+    <state width="1237" height="46" key="GridCell.Tab.0.right" timestamp="1588698420520">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="46" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1588698420520" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587115310044">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587115310044" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/technical-api/src/main/java/com/upgrad/technical/api/TechnicalApiApplication.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>

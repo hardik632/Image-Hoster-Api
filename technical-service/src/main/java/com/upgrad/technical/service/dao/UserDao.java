@@ -1,6 +1,6 @@
 package com.upgrad.technical.service.dao;
 
-import com.upgrad.technical.service.entity.ImageEntity;
+//import com.upgrad.technical.service.entity.ImageEntity;
 import com.upgrad.technical.service.entity.UserAuthTokenEntity;
 import com.upgrad.technical.service.entity.UserEntity;
 import com.upgrad.technical.service.entity.UserEntity;
@@ -19,13 +19,26 @@ public class UserDao {
 
     public UserEntity createUser(UserEntity userEntity) {
         entityManager.persist(userEntity);
+        return userEntity;
     }
 
     public UserEntity getUserByEmail(final String email) {
+        try
+        {
+            return entityManager.createNamedQuery("userByEmail", UserEntity.class)
+                    .setParameter("email", email)
+                    .getSingleResult();
+        }
+        catch (NoResultException nre)
+        {
+            return null;
+        }
+
     }
 
     public UserAuthTokenEntity createAuthToken(final UserAuthTokenEntity userAuthTokenEntity) {
         entityManager.persist(userAuthTokenEntity);
+        return userAuthTokenEntity;
     }
 
     public void updateUser(final UserEntity updatedUserEntity) {
