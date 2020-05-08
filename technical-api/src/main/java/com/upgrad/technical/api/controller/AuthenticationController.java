@@ -19,7 +19,7 @@ import javax.xml.ws.Response;
 import java.util.Base64;
 import java.util.UUID;
 
-
+@RestController
 @RequestMapping("/")
 public class AuthenticationController {
     @Autowired
